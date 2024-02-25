@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    char* a;
+    char a[20];
+
 
     cin>>a; //ERRORE
 

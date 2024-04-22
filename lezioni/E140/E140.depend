@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1713724097 source:c:\users\user\documents\e140\libro.cpp
+	"Libro.h"
+
+1713724097 c:\users\user\documents\e140\libro.h
+	<iostream>
+	<cstring>
+
+1713722678 source:c:\users\user\documents\e140\main.cpp
+	"Libreria.h"
+	<iostream>
+
+1713722727 c:\users\user\documents\e140\libreria.h
+	"Libro.h"
+
+1713722713 source:c:\users\user\documents\e140\libreria.cpp
+	"Libreria.h"
+	"Libro.h"
+

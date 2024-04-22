@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713721901 source:c:\users\user\documents\e139\film.cpp
+	"Film.h"
+	<cstring>
+	<iostream>
+
+1713721764 c:\users\user\documents\e139\film.h
+
+1713721921 source:c:\users\user\documents\e139\main.cpp
+	"Film.h"
+	<iostream>
+
